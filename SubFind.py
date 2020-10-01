@@ -99,6 +99,7 @@ def main():
     for s in subs:
 
         print(f'[*] {s}\n')
+        print(f'[*] {s}\n')
 
         if output is not None:
 
